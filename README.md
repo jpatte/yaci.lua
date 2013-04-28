@@ -374,3 +374,7 @@ i.e if casting is possible.
 
 ## Comments
 Any feedback, comments and suggestions are appreciated. Don't hesitate to fork this code and adapt it to your needs!
+
+This code was written in 2007 for Lua 5.1. There might be some adaptations needed to use with the latest Lua specs.
+
+Also, a tests suite would be a nice addition to the lib. 
